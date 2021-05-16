@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-:books: Estou aprendendo sobre desenvolvimento Fullstack e estudo Análise e Desenvolvimento de Sistemas na Estácio (3º semestre);<BR>
-:earth_americas: Moro em Porto Alegre-RS, mas a preferência é por vagas remotas;<BR>
+:books: Estou aprendendo sobre automação de testes e estudo Análise e Desenvolvimento de Sistemas na Estácio;<BR>
+:earth_americas: Moro em Porto Alegre-RS;<BR>
 :heart: Sou apaixonado por tecnologia, inovação e as possibilidades de o quanto a tecnologia pode mudar o mundo e impactar na vida das pessoas.<BR> 
-:rocket: Me chama para estágio!<BR> 
  <BR>
  :smiley:   
  <BR>
