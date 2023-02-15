@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:books: Estou aprendendo sobre automação de testes web / api;
+:books: Estou aprendendo sobre automação de testes web / api;<BR>
 :books: Formado em Análise e Desenvolvimento de Sistemas na Estácio;<BR>
 :earth_americas: Moro em Porto Alegre-RS;<BR>
 :heart: Sou apaixonado por tecnologia, inovação e as possibilidades de o quanto a tecnologia pode mudar o mundo e impactar na vida das pessoas.<BR> 
